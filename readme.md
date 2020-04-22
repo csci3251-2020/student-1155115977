@@ -31,4 +31,4 @@
 
 <h1>Screenshot of uploading file</h1>
 
-<p><img alt="Image" title="icon" src="Icon-pictures.png" /></p>
+<p><img alt="Image" title="icon" src="upload readme.md.JPG" /></p>
